@@ -1,3 +1,3 @@
 FROM dockersamples/static-site
-ENT AUTHOR="bow string"
+ENV AUTHOR="bow string"
 
